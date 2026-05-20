@@ -21,7 +21,9 @@ I start with create a table, which allows smoother calculation and formatting.
 
 ### Change Marital Status and Gender abbreviation
 Under the Martial Status column, the values should be Married or Single. Under the Gender Column, the values should be Male or Female.
+
 ![image alt](https://github.com/kristineng/Excel-Project_Customer-Analysis_Bike-Buyers/blob/d3c9bd74dd33690308c20d50c0afca2f199fe2eb/Screenshot%202026-05-21%20024712.png)
 
 Then it turns out:
+
 ![image alt](https://github.com/kristineng/Excel-Project_Customer-Analysis_Bike-Buyers/blob/5714249a4cfdd51417b17144a7ab5a79d3ba5880/Screenshot%202026-05-21%20045648.png)
