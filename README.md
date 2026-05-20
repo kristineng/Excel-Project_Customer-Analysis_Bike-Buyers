@@ -11,3 +11,7 @@ I analyze customers' demographics (Age, Genders, Income, Commute Distance,...) i
 ## Task 1: Data Cleaning
 Below is the raw dataset.
 ![image alt](https://github.com/kristineng/Excel-Project_Customer-Analysis_Bike-Buyers/blob/b5ac3b15ab167d575f9ba4654ed65e7b51cd66be/Screenshot%202026-05-21%20043704.png)
+
+### Problems regarding raw dataset
+- Marital status (M/S) and Gender (M/F) both have "M" as their unit of identification.
+- Age is continuous variable, which is not suitable for grouping and analysis
